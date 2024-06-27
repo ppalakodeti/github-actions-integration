@@ -216,7 +216,7 @@ You can view your Static Analysis findings as [code scanning alerts in GitHub](h
 3. Select **Code scanning**.
 4. Select the finding you want to review.
 
-### GitHub Issues
+### GitHub Issuest
 
 If you have used [on-demand scanning with GitHub issues](#trigger-on-demand-scanning-with-github-issues), you can view your issues [in the dashboard for your project](https://docs.github.com/en/issues/tracking-your-work-with-issues/viewing-all-of-your-issues-and-pull-requests).
 
